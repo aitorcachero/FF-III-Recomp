@@ -1,0 +1,8 @@
+display_name    = Final Fantasy III
+rom_file        = Final Fantasy III (ESP).sfc
+expected_crc32  = ec7e8542
+expected_sha256 = 794c41bd61903c402b8272c742de52b0fe0cbf30798a1233ee7b8a29520eb3f0
+rom_size        = 4194304
+mapping         = hirom
+region          = USA
+game_id         = snesrecomp-ec7e8542
